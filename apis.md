@@ -1,14 +1,14 @@
 ---
 name: APIs.json
-x-slug: apisjson
+x-slug: apis-json
 description: Defining the next generation of API discovery.
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2949-apis-json.jpg
 x-kinRank: "10"
 x-alexaRank: "4875603"
 tags: APIs.json
-created: "2018-05-22"
-modified: "2018-05-22"
-url: https://raw.githubusercontent.com/streamdata-gallery-organizations/apis-json/master/_listings/apisjson/apis.md
+created: "2018-05-24"
+modified: "2018-05-24"
+url: https://raw.githubusercontent.com/streamdata-gallery-organizations/apis-json/master/_listings/apis-json/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
